@@ -1308,6 +1308,7 @@
 	"htr": [50, 0, 0],
 	"location": [48.311498, -4.641077, 0],
 	"metricOffset": [0, 0, 0],
+	"rotateModelOnly": false,
 	"options": {
 		"shadows": 1
 	},
