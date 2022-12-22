@@ -24,11 +24,12 @@
     ]
 },
 {
-    "name": "oil rig gulf of mexico",
+    "name": "Oil rig (Gulf of Mexico)",
     "location": [
-        28.275854,
-        -88.619638,
-        0
+        28.27658048026542,
+        -88.61995886977526,
+        0,
+        180
     ]
 },
 {
