@@ -39,7 +39,7 @@
     ]
 },
 {
-    "name": "Nimitz CVN-68",
+    "name": "USS Nimitz (CVN-68)",
     "location": [
         36.9598107,
         -75.7194932, 
@@ -48,15 +48,16 @@
     ]
 },
 {
-    "name": "vinson",
+    "name": "USS Carl Vinson (CVN-70)",
     "location": [
-        35.398189,
-        18.300889,
-        0
+        35.39814707639556,
+        18.30000449639037,
+        0,
+        89
     ]
 },
 {
-    "name": "Foch R98",
+    "name": "Clemenceau (R98)",
     "location": [
         48.311629413,
         -4.6408238274,
@@ -65,7 +66,7 @@
     ]
 },
 {
-    "name": "São Paulo A12",
+    "name": "São Paulo (A12)",
     "location": [
         -22.977542,
         -43.126494,
