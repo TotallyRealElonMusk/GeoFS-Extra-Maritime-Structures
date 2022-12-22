@@ -783,12 +783,84 @@
 	   ]
    ],
    "htr": [352, 0, 0],
-   "location": [ 36.959893,-75.718630, 19.959],
+   "location": [ 36.959964,-75.72007, 19.959],
    "rotateModelOnly": true,
    "type": 100,
    "scale": 0.85,
    "url": "models/objects/carrier/arrestingcable.glb"
 },
+{
+	"name": "arrestingCable2Nimitz",
+	"arrestingCable": true,
+	"arrestingCableHeight": 0.1,
+	"collisionRadius": 800,
+	"collisionTriangles": [
+		[
+			[-19, 0, 0],
+			[16, -5, 0],
+			[-17, 5, 0]
+		],
+		[
+			[16, -5, 0],
+			[18, 0, 0],
+			[-17, 5, 0]
+		]
+	],
+	"htr": [352, 0, 0],
+	"location": [ 36.95995,-75.7202, 19.959],
+	"rotateModelOnly": true,
+	"type": 100,
+	"scale": 0.85,
+	"url": "models/objects/carrier/arrestingcable.glb"
+ },
+ {
+	"name": "arrestingCable3Nimitz",
+	"arrestingCable": true,
+	"arrestingCableHeight": 0.1,
+	"collisionRadius": 800,
+	"collisionTriangles": [
+		[
+			[-19, 0, 0],
+			[16, -5, 0],
+			[-17, 5, 0]
+		],
+		[
+			[16, -5, 0],
+			[18, 0, 0],
+			[-17, 5, 0]
+		]
+	],
+	"htr": [352, 0, 0],
+	"location": [ 36.959935,-75.72034, 19.959],
+	"rotateModelOnly": true,
+	"type": 100,
+	"scale": 0.85,
+	"url": "models/objects/carrier/arrestingcable.glb"
+ },
+ {
+	"name": "arrestingCable4Nimitz",
+	"arrestingCable": true,
+	"arrestingCableHeight": 0.1,
+	"collisionRadius": 800,
+	"collisionTriangles": [
+		[
+			[-19, 0, 0],
+			[16, -5, 0],
+			[-17, 5, 0]
+		],
+		[
+			[16, -5, 0],
+			[18, 0, 0],
+			[-17, 5, 0]
+		]
+	],
+	"htr": [352, 0, 0],
+	"location": [ 36.959919,-75.72046, 19.959],
+	"rotateModelOnly": true,
+	"type": 100,
+	"scale": 0.85,
+	"url": "models/objects/carrier/arrestingcable.glb"
+ },
 {
 	"name": "nimitz",
 	"collisionRadius": 800,
