@@ -897,8 +897,9 @@
 
 		]
 	],
-	"htr": [0, 0, 0],
+	"htr": [270, 0, 0],
 	"location": [ 36.959893, -75.718630, 0],
+	"rotateModelOnly": false,
 	"metricOffset": [0, 0, 0],
 	"options": {
 		"shadows": 1
