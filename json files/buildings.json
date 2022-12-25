@@ -1648,7 +1648,76 @@
 		]
 	],
 	"htr": [107, 0, 0],
-	"location": [51.111375,  -6.549762, 19.959],
+	"location": [51.11239,  	, 19.959],
+	"rotateModelOnly": true,
+	"type": 100,
+	"scale": 0.85,
+	"url": "models/objects/carrier/arrestingcable.glb"
+},{
+	"name": "arrestingCable2Eisenhower",
+	"arrestingCable": true,
+	"arrestingCableHeight": 0.1,
+	"collisionRadius": 800,
+	"collisionTriangles": [
+		[
+			[-19, 0, 0],
+			[16, -5, 0],
+			[-17, 5, 0]
+		],
+		[
+			[16, -5, 0],
+			[18, 0, 0],
+			[-17, 5, 0]
+		]
+	],
+	"htr": [107, 0, 0],
+	"location": [51.1125,  -6.54883, 19.959],
+	"rotateModelOnly": true,
+	"type": 100,
+	"scale": 0.85,
+	"url": "models/objects/carrier/arrestingcable.glb"
+},{
+	"name": "arrestingCable3Eisenhower",
+	"arrestingCable": true,
+	"arrestingCableHeight": 0.1,
+	"collisionRadius": 800,
+	"collisionTriangles": [
+		[
+			[-19, 0, 0],
+			[16, -5, 0],
+			[-17, 5, 0]
+		],
+		[
+			[16, -5, 0],
+			[18, 0, 0],
+			[-17, 5, 0]
+		]
+	],
+	"htr": [107, 0, 0],
+	"location": [51.11259,  -6.54879, 19.959],
+	"rotateModelOnly": true,
+	"type": 100,
+	"scale": 0.85,
+	"url": "models/objects/carrier/arrestingcable.glb"
+},{
+	"name": "arrestingCable4Eisenhower",
+	"arrestingCable": true,
+	"arrestingCableHeight": 0.1,
+	"collisionRadius": 800,
+	"collisionTriangles": [
+		[
+			[-19, 0, 0],
+			[16, -5, 0],
+			[-17, 5, 0]
+		],
+		[
+			[16, -5, 0],
+			[18, 0, 0],
+			[-17, 5, 0]
+		]
+	],
+	"htr": [107, 0, 0],
+	"location": [51.11269,  -6.548745, 19.959],
 	"rotateModelOnly": true,
 	"type": 100,
 	"scale": 0.85,
