@@ -369,10 +369,20 @@
 			[8.295, -424.602, 9.005],
 			[8.467, -411.676, 8.156],
 			[-8.543, -411.676, 8.156]
+		],
+		[
+			[-7.86083, -288.22, 6.0294],
+			[7.86083, -288.438, 0],
+			[7.86083, -288.22, 6.0294]
+		],
+		[
+			[-7.86083, -288.22, 6.0294],
+			[-7.86083, -288.438, 0],
+			[7.86083, -288.438, 0]
 		]
 	],
 	"htr": [270, 0, 0],
-	"location": [15.308956,119.381149, 0],
+	"location": [15.308956, 119.381149, 0],
 	"metricOffset": [0, 0, 0],
 	"options": {
 		"shadows": 1
@@ -756,7 +766,7 @@
 		]
 	],
 	"htr": [0, 0, 0],
-	"location": [17.662726,  40.260039, 0],
+	"location": [17.662726, 40.260039, 0],
 	"metricOffset": [0, 0, 0],
 	"options": {
 		"shadows": 1
@@ -766,28 +776,28 @@
 	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-Extra-Maritime-Structures/main/models/lpd17.glb"
 },
 {
-   "name": "arrestingCable1Nimitz",
-   "arrestingCable": true,
-   "arrestingCableHeight": 0.1,
-   "collisionRadius": 800,
-   "collisionTriangles": [
-	   [
-		   [-19, 0, 0],
-		   [16, -5, 0],
-		   [-17, 5, 0]
-	   ],
-	   [
-		   [16, -5, 0],
-		   [18, 0, 0],
-		   [-17, 5, 0]
-	   ]
-   ],
-   "htr": [352, 0, 0],
-   "location": [ 36.959964,-75.72007, 19.959],
-   "rotateModelOnly": true,
-   "type": 100,
-   "scale": 0.85,
-   "url": "models/objects/carrier/arrestingcable.glb"
+	"name": "arrestingCable1Nimitz",
+	"arrestingCable": true,
+	"arrestingCableHeight": 0.1,
+	"collisionRadius": 800,
+	"collisionTriangles": [
+		[
+			[-19, 0, 0],
+			[16, -5, 0],
+			[-17, 5, 0]
+		],
+		[
+			[16, -5, 0],
+			[18, 0, 0],
+			[-17, 5, 0]
+		]
+	],
+	"htr": [352, 0, 0],
+	"location": [36.959964, -75.72007, 19.959],
+	"rotateModelOnly": true,
+	"type": 100,
+	"scale": 0.85,
+	"url": "models/objects/carrier/arrestingcable.glb"
 },
 {
 	"name": "arrestingCable2Nimitz",
@@ -807,13 +817,13 @@
 		]
 	],
 	"htr": [352, 0, 0],
-	"location": [ 36.95995,-75.7202, 19.959],
+	"location": [36.95995, -75.7202, 19.959],
 	"rotateModelOnly": true,
 	"type": 100,
 	"scale": 0.85,
 	"url": "models/objects/carrier/arrestingcable.glb"
- },
- {
+},
+{
 	"name": "arrestingCable3Nimitz",
 	"arrestingCable": true,
 	"arrestingCableHeight": 0.1,
@@ -831,13 +841,13 @@
 		]
 	],
 	"htr": [352, 0, 0],
-	"location": [ 36.959935,-75.72034, 19.959],
+	"location": [36.959935, -75.72034, 19.959],
 	"rotateModelOnly": true,
 	"type": 100,
 	"scale": 0.85,
 	"url": "models/objects/carrier/arrestingcable.glb"
- },
- {
+},
+{
 	"name": "arrestingCable4Nimitz",
 	"arrestingCable": true,
 	"arrestingCableHeight": 0.1,
@@ -855,12 +865,12 @@
 		]
 	],
 	"htr": [352, 0, 0],
-	"location": [ 36.959919,-75.72046, 19.959],
+	"location": [36.959919, -75.72046, 19.959],
 	"rotateModelOnly": true,
 	"type": 100,
 	"scale": 0.85,
 	"url": "models/objects/carrier/arrestingcable.glb"
- },
+},
 {
 	"name": "nimitz",
 	"collisionRadius": 800,
@@ -970,7 +980,7 @@
 		]
 	],
 	"htr": [270, 0, 0],
-	"location": [ 36.959893, -75.718630, 0],
+	"location": [36.959893, -75.718630, 0],
 	"rotateModelOnly": false,
 	"metricOffset": [0, 0, 0],
 	"options": {
@@ -980,7 +990,7 @@
 	"type": 100,
 	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-Extra-Maritime-Structures/main/models/nimitz.glb"
 },
- {
+{
 	"name": "arrestingCable1Vinson",
 	"arrestingCable": true,
 	"arrestingCableHeight": 0.1,
@@ -998,7 +1008,7 @@
 		]
 	],
 	"htr": [352, 0, 0],
-	"location": [35.39826,18.29947, 19.959],
+	"location": [35.39826, 18.29947, 19.959],
 	"rotateModelOnly": true,
 	"type": 100,
 	"scale": 0.85,
@@ -1022,7 +1032,7 @@
 		]
 	],
 	"htr": [352, 0, 0],
-	"location": [35.398245,18.29936, 19.959],
+	"location": [35.398245, 18.29936, 19.959],
 	"rotateModelOnly": true,
 	"type": 100,
 	"scale": 0.85,
@@ -1046,7 +1056,7 @@
 		]
 	],
 	"htr": [352, 0, 0],
-	"location": [35.398228,18.29921, 19.959],
+	"location": [35.398228, 18.29921, 19.959],
 	"rotateModelOnly": true,
 	"type": 100,
 	"scale": 0.85,
@@ -1070,7 +1080,7 @@
 		]
 	],
 	"htr": [352, 0, 0],
-	"location": [35.398213,18.29909, 19.959],
+	"location": [35.398213, 18.29909, 19.959],
 	"rotateModelOnly": true,
 	"type": 100,
 	"scale": 0.85,
@@ -1653,7 +1663,7 @@
 	"type": 100,
 	"scale": 0.85,
 	"url": "models/objects/carrier/arrestingcable.glb"
-},{
+}, {
 	"name": "arrestingCable2Eisenhower",
 	"arrestingCable": true,
 	"arrestingCableHeight": 0.1,
@@ -1671,12 +1681,12 @@
 		]
 	],
 	"htr": [107, 0, 0],
-	"location": [51.1125,  -6.54883, 19.959],
+	"location": [51.1125, -6.54883, 19.959],
 	"rotateModelOnly": true,
 	"type": 100,
 	"scale": 0.85,
 	"url": "models/objects/carrier/arrestingcable.glb"
-},{
+}, {
 	"name": "arrestingCable3Eisenhower",
 	"arrestingCable": true,
 	"arrestingCableHeight": 0.1,
@@ -1694,12 +1704,12 @@
 		]
 	],
 	"htr": [107, 0, 0],
-	"location": [51.11259,  -6.54879, 19.959],
+	"location": [51.11259, -6.54879, 19.959],
 	"rotateModelOnly": true,
 	"type": 100,
 	"scale": 0.85,
 	"url": "models/objects/carrier/arrestingcable.glb"
-},{
+}, {
 	"name": "arrestingCable4Eisenhower",
 	"arrestingCable": true,
 	"arrestingCableHeight": 0.1,
@@ -1717,7 +1727,7 @@
 		]
 	],
 	"htr": [107, 0, 0],
-	"location": [51.11269,  -6.548745, 19.959],
+	"location": [51.11269, -6.548745, 19.959],
 	"rotateModelOnly": true,
 	"type": 100,
 	"scale": 0.85,
@@ -1832,7 +1842,7 @@
 		]
 	],
 	"htr": [25, 0, 0],
-	"location": [ 51.111375,  -6.549762, 0],
+	"location": [51.111375, -6.549762, 0],
 	"rotateModelOnly": false,
 	"metricOffset": [0, 0, 0],
 	"options": {
