@@ -1,5 +1,5 @@
 {
-	"carriers": ["Truman", "vinson", "foch"],
+	"carriers": ["Truman", "vinson", "foch", "nimitz"],
 	"cg57": {
 		"positions": [8, 9],
 		"coll": [
@@ -48,10 +48,24 @@
 	},
 	"vinson": {
 		"elevatorSquares": [
-			[178, -43, 205, -24],
-			[82, -43, 110, -24],
-			[27, -43, 54, -24]
-
+			[
+				[51.42, -42.6],
+				[51.7, -23.8],
+				[26.48, -24],
+				[20.3, -44.3]
+			],
+			[
+				[108.1, -42.7],
+				[107.2, -24.1],
+				[81.9, -23.6],
+				[75.6, -43.2]
+			],
+			[
+				[202.5, -42.6],
+				[202.8, -23.4],
+				[176.8, -23.6],
+				[170.9, -43.6]
+			]
 		],
 		"alt": 10.65641,
 		"refAlt": 20,
@@ -126,19 +140,19 @@
 		"alt": 10.65641,
 		"refAlt": 20,
 		"touchElevatorNodes": [
-			"Elevator-1-Deck",
+			"Elevator-3-Deck",
 			"Elevator-2-Deck",
-			"Elevator-3-Deck"
+			"Elevator-1-Deck"
 		],
 		"elevatorNodes": [
-			"Empty.001",
+			"Empty",
 			"Empty.002",
-			"Empty"
+			"Empty.001"
 		],
 		"position": [
-			"back",
+			"front",
 			"mid",
-			"front"
+			"back"
 		]
 	}
 }
