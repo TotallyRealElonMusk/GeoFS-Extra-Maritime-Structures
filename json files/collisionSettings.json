@@ -1,5 +1,5 @@
 {
-	"carriers": ["Truman", "vinson", "foch", "nimitz", "São Paulo"],
+	"carriers": ["Truman", "vinson", "foch", "nimitz", "São Paulo", "eisenhower"],
 	"cg57": {
 		"positions": [8, 9],
 		"coll": [
@@ -182,6 +182,46 @@
 		],
 		"position": [
 			"front",
+			"back"
+		]
+	},
+	"eisenhower": {
+		"elevatorSquares": [
+			[
+				[22.6, 84.9],
+				[-0.3, 73.9],
+				[14, 43.4],
+				[39.2, 47.2]
+			],
+			[
+				[-8.4, 150.2],
+				[-30.5, 139.4],
+				[-16.5, 109.5],
+				[9.6, 113.1]
+			],
+			[
+				[-61.6, 262.2],
+				[-83.1, 251.5],
+				[-69.2, 221.5],
+				[-44.5, 224.8]
+			]
+
+		],
+		"alt": 10.65641,
+		"refAlt": 20,
+		"touchElevatorNodes": [
+			"Elevator-3-Deck",
+			"Elevator-2-Deck",
+			"Elevator-1-Deck"
+		],
+		"elevatorNodes": [
+			"Empty",
+			"Empty.002",
+			"Empty.001"
+		],
+		"position": [
+			"front",
+			"mid",
 			"back"
 		]
 	}

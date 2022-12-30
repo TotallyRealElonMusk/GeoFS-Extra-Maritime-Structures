@@ -1734,7 +1734,7 @@
 	"url": "models/objects/carrier/arrestingcable.glb"
 },
 {
-	"name": "USS Dwight D. Eisenhower (CVN-69)",
+	"name": "eisenhower",
 	"collisionRadius": 800,
 	"collisionTriangles": [
 		[
