@@ -70,19 +70,19 @@
 		"alt": 10.65641,
 		"refAlt": 20,
 		"touchElevatorNodes": [
-			"Elevator-1-Deck",
+			"Elevator-3-Deck",
 			"Elevator-2-Deck",
-			"Elevator-3-Deck"
+			"Elevator-1-Deck"
 		],
 		"elevatorNodes": [
-			"Empty.001",
+			"Empty",
 			"Empty.002",
-			"Empty"
+			"Empty.001"
 		],
 		"position": [
-			"back",
+			"front",
 			"mid",
-			"front"
+			"back"
 		]
 	},
 	"foch": {
