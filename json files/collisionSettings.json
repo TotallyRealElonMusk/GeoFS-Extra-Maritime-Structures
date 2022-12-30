@@ -1,4 +1,5 @@
 {
+	"carriers": ["truman", "vinson", "foch"],
 	"cg57": {
 		"positions": [8, 9],
 		"coll": [
@@ -21,7 +22,19 @@
 			[25, -260, 42, -200]
 		],
 		"alt": 11.93894,
-		"refAlt": 20
+		"refAlt": 20,
+		"touchElevatorNodes": [
+			"Elevator-1-Deck.002",
+			"Elevator-3-Deck.002"
+		],
+		"elevatorNodes":[
+			"elevator front",
+			"elevator back"
+		],
+		"position":[
+			"front",
+			"back"
+		]
 	},
 	"vinson": {
 		"elevatorSquares": [
@@ -31,7 +44,22 @@
 
 		],
 		"alt": 10.65641,
-		"refAlt":20
+		"refAlt":20,
+		"touchElevatorNodes": [
+			"Elevator-1-Deck",
+			"Elevator-2-Deck",
+			"Elevator-3-Deck"
+		],
+		"elevatorNodes":[
+			"Empty.001",
+			"Empty.002",
+			"Empty"
+		],
+		"position":[
+			"back",
+			"mid",
+			"front"
+		]
 	},
 	"foch": {
 		"elevatorSquares": [
@@ -40,6 +68,18 @@
 
 		],
 		"alt": 9.1969,
-		"refAlt": 13.5
+		"refAlt": 13.5,
+		"touchElevatorNodes": [
+			"Ascenseur1",
+			"Ascenseur2"
+		],
+		"elevatorNodes":[
+			"Empty",
+			"Empty.001"
+		],
+		"position":[
+			"front",
+			"back"
+		]
 	}
 }
