@@ -1,5 +1,5 @@
 {
-	"carriers": ["Truman", "vinson", "foch", "nimitz"],
+	"carriers": ["Truman", "vinson", "foch", "nimitz", "sao paolo"],
 	"cg57": {
 		"positions": [8, 9],
 		"coll": [
@@ -152,6 +152,36 @@
 		"position": [
 			"front",
 			"mid",
+			"back"
+		]
+	},
+	"sao paolo": {
+		"elevatorSquares": [
+			[
+				[13.1, -129.2],
+				[13.5, -147.1],
+				[-0.4, -146.6],
+				[-0.3, -129.5]
+			],
+			[
+				[25, -45],
+				[13.8, -45.1],
+				[14.2, -62.1],
+				[25.1, -62]
+			]
+		],
+		"alt": 9.1969,
+		"refAlt": 13.5,
+		"touchElevatorNodes": [
+			"Ascenseur1",
+			"Ascenseur2"
+		],
+		"elevatorNodes": [
+			"Empty",
+			"Empty.001"
+		],
+		"position": [
+			"front",
 			"back"
 		]
 	}
