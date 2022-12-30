@@ -1,5 +1,5 @@
 {
-	"carriers": ["Truman", "vinson", "foch", "nimitz", "sao paolo"],
+	"carriers": ["Truman", "vinson", "foch", "nimitz", "São Paulo"],
 	"cg57": {
 		"positions": [8, 9],
 		"coll": [
@@ -155,7 +155,7 @@
 			"back"
 		]
 	},
-	"sao paolo": {
+	"São Paulo": {
 		"elevatorSquares": [
 			[
 				[13.1, -129.2],
