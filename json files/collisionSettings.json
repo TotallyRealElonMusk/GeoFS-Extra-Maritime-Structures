@@ -51,7 +51,7 @@
 			["JBD-3.002", "JBD-3-strut-b.001", "JBD-3-strut-a.001"],
 			["JBD-4.002", "JBD-4-strut-b.001", "JBD-4-strut-a.001"]
 		],
-		"JBDAngles": [-70, 185,50]
+		"JBDAngles": [-70, -175,50]
 	},
 	"vinson": {
 		"elevatorSquares": [
