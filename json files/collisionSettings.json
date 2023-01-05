@@ -44,7 +44,14 @@
 		"position": [
 			"front",
 			"back"
-		]
+		],
+		"JBD": [
+			["JBD-1.002", "JBD-1-strut-b.001", "JBD-1-strut-a.001"],
+			["JBD-2.002", "JBD-2-strut-b.001", "JBD-2-strut-a.001"],
+			["JBD-3.002", "JBD-3-strut-b.001", "JBD-3-strut-a.001"],
+			["JBD-4.002", "JBD-4-strut-b.001", "JBD-4-strut-a.001"]
+		],
+		"JBDAngles": [-70, 50, 185]
 	},
 	"vinson": {
 		"elevatorSquares": [
