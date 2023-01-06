@@ -90,7 +90,14 @@
 			"front",
 			"mid",
 			"back"
-		]
+		],
+		"JBD": [
+			["JBD-1", "JBD-1-strut-b", "JBD-1-strut-a"],
+			["JBD-2", "JBD-2-strut-b", "JBD-2-strut-a"],
+			["JBD-3", "JBD-3-strut-b", "JBD-3-strut-a"],
+			["JBD-4", "JBD-4-strut-b", "JBD-4-strut-a"]
+		],
+		"JBDAngles": [-70, -175,50]
 	},
 	"foch": {
 		"elevatorSquares": [
@@ -230,6 +237,13 @@
 			"front",
 			"mid",
 			"back"
-		]
+		],
+		"JBD": [
+			["JBD-1", "JBD-1-strut-b", "JBD-1-strut-a"],
+			["JBD-2", "JBD-2-strut-b", "JBD-2-strut-a"],
+			["JBD-3", "JBD-3-strut-b", "JBD-3-strut-a"],
+			["JBD-4", "JBD-4-strut-b", "JBD-4-strut-a"]
+		],
+		"JBDAngles": [-70, -175,50]
 	}
 }
