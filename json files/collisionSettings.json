@@ -52,7 +52,8 @@
 			["JBD-3.002", "JBD-3-strut-b.001", "JBD-3-strut-a.001"],
 			["JBD-4.002", "JBD-4-strut-b.001", "JBD-4-strut-a.001"]
 		],
-		"JBDAngles": [-70, -175, 50]
+		"JBDAnglesPos": [[0,-70,0], [0,-175,0], [0,50,0]],
+		"JBDAnglesNeg": [[0,70,0], [0,175,0], [0,-50,0]]
 	},
 	"vinson": {
 		"elevatorSquares": [
@@ -99,7 +100,8 @@
 			["JBD-3", "JBD-3-strut-b", "JBD-3-strut-a"],
 			["JBD-4", "JBD-4-strut-b", "JBD-4-strut-a"]
 		],
-		"JBDAngles": [-70, -175, 50]
+		"JBDAnglesPos": [[0,-70,0], [0,-175,0], [0,50,0]],
+		"JBDAnglesNeg": [[0,70,0], [0,175,0], [0,-50,0]]
 	},
 	"foch": {
 		"elevatorSquares": [
@@ -135,7 +137,8 @@
 			["Empty.002"],
 			["Empty.003"]
 		],
-		"JBDAngles": [-70]
+		"JBDAnglesPos": [[0,0,-70]],
+		"JBDAnglesNeg": [[0,0,70]]
 	},
 	"nimitz": {
 		"elevatorSquares": [
@@ -183,7 +186,8 @@
 			["JBD-3", "JBD-3-strut-b", "JBD-3-strut-a"],
 			["JBD-4", "JBD-4-strut-b", "JBD-4-strut-a"]
 		],
-		"JBDAngles": [-70, -175, 50]
+		"JBDAnglesPos": [[0,-70,0], [0,-175,0], [0,50,0]],
+		"JBDAnglesNeg": [[0,70,0], [0,175,0], [0,-50,0]]
 	},
 	"São Paulo": {
 		"elevatorSquares": [
@@ -219,7 +223,8 @@
 			["Empty.002"],
 			["Empty.003"]
 		],
-		"JBDAngles": [-70]
+		"JBDAnglesPos": [[0,0,-70]],
+		"JBDAnglesNeg": [[0,0,70]]
 	},
 	"eisenhower": {
 		"elevatorSquares": [
@@ -267,6 +272,7 @@
 			["JBD-3", "JBD-3-strut-b", "JBD-3-strut-a"],
 			["JBD-4", "JBD-4-strut-b", "JBD-4-strut-a"]
 		],
-		"JBDAngles": [-70, -175, 50]
+		"JBDAnglesPos": [[0,-70,0], [0,-175,0], [0,50,0]],
+		"JBDAnglesNeg": [[0,70,0], [0,175,0], [0,-50,0]]
 	}
 }
