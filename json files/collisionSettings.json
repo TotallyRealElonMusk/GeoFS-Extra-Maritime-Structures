@@ -1,5 +1,5 @@
 {
-	"carriers": ["Truman", "vinson", "foch", "nimitz", "São Paulo", "eisenhower"],
+	"carriers": ["USS Harry S. Truman (CVN-75)", "USS Carl Vinson (CVN-70)", "Clemenceau (R98)", "USS Nimitz (CVN-68)", "São Paulo (A12)", "USS Dwight D. Eisenhower (CVN-69)"],
 	"cg57": {
 		"positions": [8, 9],
 		"coll": [
@@ -16,7 +16,7 @@
 		],
 		"square": [-400, -8.46654, -340, 8.54255]
 	},
-	"Truman": {
+	"USS Harry S. Truman (CVN-75)": {
 		"elevatorSquares": [
 			[
 				[21.7, -253.6],
@@ -42,8 +42,8 @@
 			"elevator back"
 		],
 		"position": [
-			"front",
-			"back"
+			"Front elevator",
+			"Back elevator"
 		],
 		"JBDTouch": ["JBD-1.002", "JBD-2.002", "JBD-3.002", "JBD-4.002"],
 		"JBD": [
@@ -55,7 +55,7 @@
 		"JBDAnglesPos": [[0,-70,0], [0,-175,0], [0,50,0]],
 		"JBDAnglesNeg": [[0,70,0], [0,175,0], [0,-50,0]]
 	},
-	"vinson": {
+	"USS Carl Vinson (CVN-70)": {
 		"elevatorSquares": [
 			[
 				[51.42, -42.6],
@@ -89,9 +89,9 @@
 			"Empty.001"
 		],
 		"position": [
-			"front",
-			"mid",
-			"back"
+			"Front elevator",
+			"Middle elevator",
+			"Back elevator"
 		],
 		"JBDTouch": ["JBD-1", "JBD-2", "JBD-3", "JBD-4"],
 		"JBD": [
@@ -103,7 +103,7 @@
 		"JBDAnglesPos": [[0,-70,0], [0,-175,0], [0,50,0]],
 		"JBDAnglesNeg": [[0,70,0], [0,175,0], [0,-50,0]]
 	},
-	"foch": {
+	"Clemenceau (R98)": {
 		"elevatorSquares": [
 			[
 				[52.2, -48.2],
@@ -129,8 +129,8 @@
 			"Empty.001"
 		],
 		"position": [
-			"front",
-			"back"
+			"Front elevator",
+			"Back elevator"
 		],
 		"JBDTouch":["JBD-1", "JBD-2"],
 		"JBD": [
@@ -140,7 +140,7 @@
 		"JBDAnglesPos": [[0,0,-70]],
 		"JBDAnglesNeg": [[0,0,70]]
 	},
-	"nimitz": {
+	"USS Nimitz (CVN-68)": {
 		"elevatorSquares": [
 			[
 				[52.2, -43.4],
@@ -175,9 +175,9 @@
 			"Empty.001"
 		],
 		"position": [
-			"front",
-			"mid",
-			"back"
+			"Front elevator",
+			"Middle elevator",
+			"Back elevator"
 		],
 		"JBDTouch": ["JBD-1", "JBD-2", "JBD-3", "JBD-4"],
 		"JBD": [
@@ -189,7 +189,7 @@
 		"JBDAnglesPos": [[0,-70,0], [0,-175,0], [0,50,0]],
 		"JBDAnglesNeg": [[0,70,0], [0,175,0], [0,-50,0]]
 	},
-	"São Paulo": {
+	"São Paulo (A12)": {
 		"elevatorSquares": [
 			[
 				[13.1, -129.2],
@@ -215,8 +215,8 @@
 			"Empty.001"
 		],
 		"position": [
-			"front",
-			"back"
+			"Front elevator",
+			"Back elevator"
 		],
 		"JBDTouch":["JBD-1", "JBD-2"],
 		"JBD": [
@@ -226,7 +226,7 @@
 		"JBDAnglesPos": [[0,0,-70]],
 		"JBDAnglesNeg": [[0,0,70]]
 	},
-	"eisenhower": {
+	"USS Dwight D. Eisenhower (CVN-69)": {
 		"elevatorSquares": [
 			[
 				[22.6, 84.9],
@@ -261,9 +261,9 @@
 			"Empty.001"
 		],
 		"position": [
-			"front",
-			"mid",
-			"back"
+			"Front elevator",
+			"Middle elevator",
+			"Back elevator"
 		],
 		"JBDTouch": ["JBD-1", "JBD-2", "JBD-3", "JBD-4"],
 		"JBD": [

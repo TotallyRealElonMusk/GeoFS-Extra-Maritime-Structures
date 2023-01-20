@@ -95,7 +95,7 @@
 	"url": "models/objects/carrier/arrestingcable.glb"
 },
 {
-	"name": "Truman",
+	"name": "USS Harry S. Truman (CVN-75)",
 	"collisionRadius": 800,
 	"collisionTriangles": [
 		[
@@ -229,7 +229,7 @@
 	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-Extra-Maritime-Structures/main/models/truman2.glb"
 },
 {
-	"name": "cg57",
+	"name": "USS Lake Champlain (CG-57)",
 	"collisionRadius": 800,
 	"collisionTriangles": [
 		[
@@ -392,7 +392,7 @@
 	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-Extra-Maritime-Structures/main/models/CG57.glb"
 },
 {
-	"name": "oil rig scotland",
+	"name": "Oil rig (Scotland)",
 	"collisionRadius": 800,
 	"collisionTriangles": [
 		[
@@ -544,7 +544,7 @@
 	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-Extra-Maritime-Structures/main/models/oil%20rig.glb"
 },
 {
-	"name": "oil rig gulf of mexico",
+	"name": "Oil rig (Gulf of Mexico)",
 	"collisionRadius": 800,
 	"collisionTriangles": [
 		[
@@ -696,7 +696,7 @@
 	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-Extra-Maritime-Structures/main/models/oil%20rig.glb"
 },
 {
-	"name": "LPD17",
+	"name": "USS San Antonio (LPD-17)",
 	"collisionRadius": 800,
 	"collisionTriangles": [
 		[
@@ -872,7 +872,7 @@
 	"url": "models/objects/carrier/arrestingcable.glb"
 },
 {
-	"name": "nimitz",
+	"name": "USS Nimitz (CVN-68)",
 	"collisionRadius": 800,
 	"collisionTriangles": [
 		[
@@ -1087,7 +1087,7 @@
 	"url": "models/objects/carrier/arrestingcable.glb"
 },
 {
-	"name": "vinson",
+	"name": "USS Carl Vinson (CVN-70)",
 	"collisionRadius": 800,
 	"collisionTriangles": [
 		[
@@ -1302,7 +1302,7 @@
 	"url": "models/objects/carrier/arrestingcable.glb"
 },
 {
-	"name": "foch",
+	"name": "Clemenceau (R98)",
 	"collisionRadius": 800,
 	"collisionTriangles": [
 		[
@@ -1520,7 +1520,7 @@
 	"url": "models/objects/carrier/arrestingcable.glb"
 },
 {
-	"name": "São Paulo",
+	"name": "São Paulo (A12)",
 	"collisionRadius": 800,
 	"collisionTriangles": [
 		[
@@ -1734,7 +1734,7 @@
 	"url": "models/objects/carrier/arrestingcable.glb"
 },
 {
-	"name": "eisenhower",
+	"name": "USS Dwight D. Eisenhower (CVN-69)",
 	"collisionRadius": 800,
 	"collisionTriangles": [
 		[
