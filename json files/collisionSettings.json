@@ -46,6 +46,7 @@
 			"Back elevator"
 		],
 		"JBDTouch": ["JBD-1.002", "JBD-2.002", "JBD-3.002", "JBD-4.002"],
+		"JBDName": ["JBD-1", "JBD-2", "JBD-3", "JBD-4"],
 		"JBD": [
 			["JBD-1.002", "JBD-1-strut-b.001", "JBD-1-strut-a.001"],
 			["JBD-2.002", "JBD-2-strut-b.001", "JBD-2-strut-a.001"],
@@ -94,6 +95,7 @@
 			"Back elevator"
 		],
 		"JBDTouch": ["JBD-1", "JBD-2", "JBD-3", "JBD-4"],
+		"JBDName": ["JBD-1", "JBD-2", "JBD-3", "JBD-4"],
 		"JBD": [
 			["JBD-1", "JBD-1-strut-b", "JBD-1-strut-a"],
 			["JBD-2", "JBD-2-strut-b", "JBD-2-strut-a"],
@@ -133,6 +135,7 @@
 			"Back elevator"
 		],
 		"JBDTouch":["JBD-1", "JBD-2"],
+		"JBDName": ["JBD-1", "JBD-2"],
 		"JBD": [
 			["Empty.002"],
 			["Empty.003"]
@@ -180,6 +183,7 @@
 			"Back elevator"
 		],
 		"JBDTouch": ["JBD-1", "JBD-2", "JBD-3", "JBD-4"],
+		"JBDName": ["JBD-1", "JBD-2", "JBD-3", "JBD-4"],
 		"JBD": [
 			["JBD-1", "JBD-1-strut-b", "JBD-1-strut-a"],
 			["JBD-2", "JBD-2-strut-b", "JBD-2-strut-a"],
@@ -219,6 +223,7 @@
 			"Back elevator"
 		],
 		"JBDTouch":["JBD-1", "JBD-2"],
+		"JBDName": ["JBD-1", "JBD-2"],
 		"JBD": [
 			["Empty.002"],
 			["Empty.003"]
@@ -266,6 +271,7 @@
 			"Back elevator"
 		],
 		"JBDTouch": ["JBD-1", "JBD-2", "JBD-3", "JBD-4"],
+		"JBDName": ["JBD-1", "JBD-2", "JBD-3", "JBD-4"],
 		"JBD": [
 			["JBD-1", "JBD-1-strut-b", "JBD-1-strut-a"],
 			["JBD-2", "JBD-2-strut-b", "JBD-2-strut-a"],
