@@ -33,11 +33,11 @@
 		],
 		"alt": 11.93894,
 		"refAlt": 20,
-		"touchElevatorNodes": [
+		"touchNodes": [
 			"Elevator-1-Deck.002",
 			"Elevator-3-Deck.002"
 		],
-		"elevatorNodes": [
+		"actualNodes": [
 			"elevator front",
 			"elevator back"
 		],
@@ -79,12 +79,12 @@
 		],
 		"alt": 10.65641,
 		"refAlt": 20,
-		"touchElevatorNodes": [
+		"touchNodes": [
 			"Elevator-3-Deck",
 			"Elevator-2-Deck",
 			"Elevator-1-Deck"
 		],
-		"elevatorNodes": [
+		"actualNodes": [
 			"Empty",
 			"Empty.002",
 			"Empty.001"
@@ -122,11 +122,11 @@
 		],
 		"alt": 9.1969,
 		"refAlt": 13.5,
-		"touchElevatorNodes": [
+		"touchNodes": [
 			"Ascenseur1",
 			"Ascenseur2"
 		],
-		"elevatorNodes": [
+		"actualNodes": [
 			"Empty",
 			"Empty.001"
 		],
@@ -167,12 +167,12 @@
 		],
 		"alt": 10.65641,
 		"refAlt": 20,
-		"touchElevatorNodes": [
+		"touchNodes": [
 			"Elevator-3-Deck",
 			"Elevator-2-Deck",
 			"Elevator-1-Deck"
 		],
-		"elevatorNodes": [
+		"actualNodes": [
 			"Empty",
 			"Empty.002",
 			"Empty.001"
@@ -210,11 +210,11 @@
 		],
 		"alt": 9.1969,
 		"refAlt": 13.5,
-		"touchElevatorNodes": [
+		"touchNodes": [
 			"Ascenseur1",
 			"Ascenseur2"
 		],
-		"elevatorNodes": [
+		"actualNodes": [
 			"Empty",
 			"Empty.001"
 		],
@@ -255,12 +255,12 @@
 		],
 		"alt": 10.65641,
 		"refAlt": 20,
-		"touchElevatorNodes": [
+		"touchNodes": [
 			"Elevator-3-Deck",
 			"Elevator-2-Deck",
 			"Elevator-1-Deck"
 		],
-		"elevatorNodes": [
+		"actualNodes": [
 			"Empty",
 			"Empty.002",
 			"Empty.001"
