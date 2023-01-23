@@ -31,7 +31,8 @@
 				[43.1, -77.2]
 			]
 		],
-		"alt": 11.93894,
+		"altUp": 19.9831,
+		"altDown": 8.04413,
 		"refAlt": 20,
 		"touchNodes": [
 			"Elevator-1-Deck.002",
@@ -77,7 +78,8 @@
 				[170.9, -43.6]
 			]
 		],
-		"alt": 10.65641,
+		"altUp": 20.0001,
+		"altDown": 9.34364,
 		"refAlt": 20,
 		"touchNodes": [
 			"Elevator-3-Deck",
@@ -120,7 +122,8 @@
 				[-14.5, 54.6]
 			]
 		],
-		"alt": 9.1969,
+		"altUp": 13.8549,
+		"altDown": 4.658,
 		"refAlt": 13.5,
 		"touchNodes": [
 			"Ascenseur1",
@@ -165,7 +168,8 @@
 			]
 
 		],
-		"alt": 10.65641,
+		"altUp": 20.0001,
+		"altDown": 9.34364,
 		"refAlt": 20,
 		"touchNodes": [
 			"Elevator-3-Deck",
@@ -208,7 +212,8 @@
 				[25.1, -62]
 			]
 		],
-		"alt": 9.1969,
+		"altUp": 13.8549,
+		"altDown": 9.1969,
 		"refAlt": 13.5,
 		"touchNodes": [
 			"Ascenseur1",
@@ -253,7 +258,8 @@
 			]
 
 		],
-		"alt": 10.65641,
+		"altUp": 20.0001,
+		"altDown": 4.658,
 		"refAlt": 20,
 		"touchNodes": [
 			"Elevator-3-Deck",
