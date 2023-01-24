@@ -32,6 +32,7 @@
 			]
 		],
 		"alt": -11.93894,
+		"collAlt":20.09,
 		"refAlt": 20,
 		"touchNodes": [
 			"Elevator-1-Deck.002",
@@ -79,6 +80,7 @@
 		],
 		"alt": -10.65641,
 		"refAlt": 20,
+		"collAlt": 19.959,
 		"touchNodes": [
 			"Elevator-3-Deck",
 			"Elevator-2-Deck",
@@ -121,6 +123,7 @@
 			]
 		],
 		"alt": -9.1969,
+		"collAlt": 14.234,
 		"refAlt": 13.5,
 		"touchNodes": [
 			"Ascenseur1",
@@ -166,6 +169,7 @@
 
 		],
 		"alt": -10.65641,
+		"collAlt": 19.959,
 		"refAlt": 20,
 		"touchNodes": [
 			"Elevator-3-Deck",
@@ -209,6 +213,7 @@
 			]
 		],
 		"alt": -9.1969,
+		"collAlt": 14.234,
 		"refAlt": 13.5,
 		"touchNodes": [
 			"Ascenseur1",
@@ -254,6 +259,7 @@
 
 		],
 		"alt": -10.65641,
+		"collAlt": 19.959,
 		"refAlt": 20,
 		"touchNodes": [
 			"Elevator-3-Deck",
