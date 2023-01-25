@@ -32,6 +32,7 @@
 			]
 		],
 		"alt": -11.93894,
+		"location" : [0,-11.93894,0],
 		"collAlt":20.09,
 		"refAlt": 20,
 		"touchNodes": [
@@ -79,6 +80,7 @@
 			]
 		],
 		"alt": -10.65641,
+		"location" : [0,-10.65641,0],
 		"refAlt": 20,
 		"collAlt": 19.959,
 		"touchNodes": [
@@ -123,6 +125,7 @@
 			]
 		],
 		"alt": -9.1969,
+		"location" : [0,-9.1969,0],
 		"collAlt": 14.234,
 		"refAlt": 13.5,
 		"touchNodes": [
@@ -169,6 +172,7 @@
 
 		],
 		"alt": -10.65641,
+		"location" : [0,-10.65641,0],
 		"collAlt": 19.959,
 		"refAlt": 20,
 		"touchNodes": [
@@ -213,6 +217,7 @@
 			]
 		],
 		"alt": -9.1969,
+		"location" : [0,-9.1969,0],
 		"collAlt": 14.234,
 		"refAlt": 13.5,
 		"touchNodes": [
@@ -259,6 +264,7 @@
 
 		],
 		"alt": -10.65641,
+		"location" : [0,-10.65641,0],
 		"collAlt": 19.959,
 		"refAlt": 20,
 		"touchNodes": [
