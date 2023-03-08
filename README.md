@@ -8,7 +8,7 @@ Select your carrier, oil rig, or landing pad. You then have the options `GET DIR
 This addon also features catapults for the F-16, F-14, and E-2C Hawkeye. It is a modified version of Arikiam's catapult addon which he greatfully let me use. To use it, press `Q` to lower your (fictif) launch bar. A green `LAUNCH BAR DOWN` above your flaps indicator (bottom right of your window) will turn on to tell you it's down. Advance to the catapult. Positions are defined and precise for each aircraft and have an standard uncertainty of 4 meters and 5 degrees. Once in position, press `/` to lock the launch bar in the catapult. This time, a red `READY TO LAUNCH` will appear on the bottom right of your screen. You are now ready to launch. Press `L` to launch.<br>
 Enjoy!<br>
 
-[**Find the Structure locations here!**](https://www.google.com/maps/d/u/0/edit?mid=1WGPkTMEBwsjYf4WFaeR4O5DScqzu0Vg&ll=4.3868333146500404%2C0&z=2)
+[**Find the structure locations here!**](https://www.google.com/maps/d/u/0/edit?mid=1WGPkTMEBwsjYf4WFaeR4O5DScqzu0Vg&ll=4.3868333146500404%2C0&z=2)
 
 
 
